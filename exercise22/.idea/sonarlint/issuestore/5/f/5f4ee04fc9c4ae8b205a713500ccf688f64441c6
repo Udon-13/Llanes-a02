@@ -1,0 +1,11 @@
+
+\
+java:S1659"ADeclare "num2" and all following declarations on a separate line.(ÀàÜÙøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÚîÓşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉãèÑÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™•ÏÄ
+n
+java:S1871 "LThis branch's code block is the same as the block for the branch on line 27.(ÒÌâ–øÿÿÿÿ8™„¡ˆÀ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÇÜæ
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÓÇÜæ8¾İ ˆÀ/
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(‡ùÒ8™„¡ˆÀ/
